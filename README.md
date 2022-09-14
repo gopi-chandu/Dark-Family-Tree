@@ -4,8 +4,8 @@
 #### :warning: Full of SPOILERS!
 
 dark.pl analyses facts about parents, gender,of Dark series characters in all 3 worlds, and implements rules.
-Usage
-![image](https://github.com/gopi-chandu/Dark-Family-Tree/blob/master/about.png)
+
+![image](https://github.com/gopi-chandu/Dark-Family-Tree/blob/master/about.png| width=100)
 **Queries include the following:**
 * Relationship - _Find the relationship between X and Y_
   ```prolog
